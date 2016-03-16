@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Oklahoma's Mariachi"
-datePublished: '2016-03-16T05:33:07.645Z'
-dateModified: '2016-03-16T05:32:39.872Z'
+datePublished: '2016-03-16T05:33:55.246Z'
+dateModified: '2016-03-16T05:33:12.273Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-oklahomas-mariachi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-oklahomas-mariachi.md
-published: true
 url: oklahomas-mariachi/index.html
 _type: Article
 
