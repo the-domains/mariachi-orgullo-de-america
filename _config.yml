@@ -1,0 +1,28 @@
+name: Mariachi Orgullo de América
+favicon: null
+layout_spectrum: 0.07764650206081569
+typography_spectrum: 0.8716438815463334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7458386747166514
+  lightness: 0.6331411085557193
+  saturation: 0.5919966863002628
+  rhythmicContrast: 0.8483459043782204
+purpose: []
